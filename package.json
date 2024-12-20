@@ -1,0 +1,10 @@
+{
+	"name": "@passclave/passclave-web-ext",
+	"version": "0.0.0",
+	"private": true,
+	"description": "🌐 🔌 The Passclave browser extension enables browsing Web3 sites using passkeys as private keys",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/passclave/metamask-web-ext.git"
+	}
+}
